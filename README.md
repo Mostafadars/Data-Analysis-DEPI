@@ -1,2 +1,2 @@
-# Data-Analysis---DEPI
+# Data-Analysis-DEPI
 Repository For Data Analysis Projects Of DEPI
