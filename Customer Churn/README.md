@@ -6,5 +6,5 @@
 - Mostafa Ali Abd El-Kawy
 - Mostafa Ali Hashem
 - Karim Abdelhamed Abdo
-- Karim Abd Elhamed
+- Sayed Magdy Abdallah
 - Mohamed Haitham Ayman
